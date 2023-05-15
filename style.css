@@ -1,0 +1,23 @@
+body{
+    margin:0%;
+    /* font-family: system-ui; */
+    overflow-x: hidden;
+    background-color:forestgreen;
+}
+#download{
+    color: red;
+    font-size: xx-large;
+}
+.About{
+    margin-left: 3%;
+    display: flex;
+    width: 60%;
+    border-radius:0 40px ;
+}
+.mama{
+    margin-left: 19%;
+
+    height: 200px;
+
+}
+
