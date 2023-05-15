@@ -1,23 +1,50 @@
-body{
-    margin:0%;
-    /* font-family: system-ui; */
-    overflow-x: hidden;
-    background-color:forestgreen;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: forestgreen;
 }
-#download{
-    color: red;
-    font-size: xx-large;
+
+header {
+    background-color: forestgreen;
+    color: #fff;
+    padding: 10px;
+    padding-left: 30px;
 }
-.About{
-    margin-left: 3%;
+
+nav ul {
+    list-style: none;
+    margin: 20px;
+    padding: 40px;
+    text-align: center; 
+    padding-left: 40px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 60px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+   
+    /* text-align: center; */
+}
+#menu {
+    color: gold;
+}
+#vege{
+    color: goldenrod;
+    font-size: 50px;
+}
+.message{
     display: flex;
-    width: 60%;
-    border-radius:0 40px ;
 }
-.mama{
-    margin-left: 19%;
-
-    height: 200px;
-
+.image{
+    padding-left: 12%;
+  
 }
-
+.offers{
+    padding-left: 10px;
+}

@@ -1,0 +1,92 @@
+body{
+     
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: forestgreen;
+}
+.features {
+    background-color: forestgreen;
+    padding: 20px;
+  }
+  .features h2 {
+    text-align: center;
+  }
+  .features ul {
+    list-style: none;
+    margin-left: 20px;
+    display: flex;
+    gap: 10%; 
+  }
+  .features li {
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  .advert{
+    text-align: center;
+  }
+  .vegetables{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+  }
+  .vegetables2{
+    display: flex;
+    gap: 10%;
+    border-radius: 30px;
+    padding-top: 10%;
+    margin-left: 5%;
+  }
+  #image1{
+    width: 200px;
+    height: 150px;
+  }
+  #carrot2{
+    width: 200px;
+    height: 150px;
+  }
+  #brokoli{
+    width: 200px;
+    height: 150px;
+  }
+  #cabbage{
+    width: 200px;
+    height: 150px;
+  }
+  #kales{
+    width: 200px;
+    height: 150px;
+  }
+  #brenge{
+    width: 200px;
+    height: 150px;
+  }
+  #onion{
+    width: 200px;
+    height: 150px;
+  }
+  #carrot2{
+    width: 200px;
+    height: 150px;
+  }
+  .image{
+    border-radius: 30px;
+    background-color:whitesmoke;
+  }
+  #image1{
+    border-radius: 30px;
+    background-color:whitesmoke;
+    height: 80%;
+  }
+  .fruits{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+  }
+  .fruits2{
+    display: flex;
+    gap: 10%;
+    border-radius: 30px;
+    padding-top: 10%;
+    margin-left: 5%;
+  }
